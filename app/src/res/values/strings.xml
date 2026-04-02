@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Just Do It</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="first_fragment_label">Ma Liste de Tâches</string>
+    <string name="second_fragment_label">Nouvelle Tâche</string>
+    <string name="task_deadline_format">Deadline: %1$s</string>
+</resources>
